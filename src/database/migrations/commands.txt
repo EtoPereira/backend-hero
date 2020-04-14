@@ -1,0 +1,5 @@
+npx knex - Mostra todos comandos;
+
+npx knex migration:make create_table;
+
+npx knex migrate:rollback - desfazer migration;
